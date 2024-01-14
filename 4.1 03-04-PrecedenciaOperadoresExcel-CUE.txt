@@ -1,0 +1,6 @@
+Prioridad de Operadores en Excel
+
+1. ()
+2. ^
+3. * /
+4. + -
